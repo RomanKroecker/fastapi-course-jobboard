@@ -1,7 +1,7 @@
 ## [env fastAPI]
 
-D:
-cd D:\Web Projekte\jobboard
+
+cd C:\Users\RomKey\Documents\GitHub\fastapi-course-jobboard
 
 uvicorn main:app --reload
 
