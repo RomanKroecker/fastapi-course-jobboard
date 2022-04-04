@@ -1,0 +1,14 @@
+## [env fastAPI]
+
+D:
+cd D:\Web Projekte\jobboard
+
+uvicorn main:app --reload
+
+
+
+
+
+
+pip install uvicorn
+pip install fastAPI
