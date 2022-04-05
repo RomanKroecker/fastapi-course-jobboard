@@ -1,0 +1,7 @@
+# fastapi env : prompt
+
+## comands
+
+cd C:\Users\RomKey\Documents\GitHub\fastapi-course-jobboard\backend
+
+pytest

@@ -17,6 +17,11 @@ passlib[bcrypt]
 
 
 
+# for testing
+pytest
+requests
+
+
 
 
 ## pip install -r requirements.txt
