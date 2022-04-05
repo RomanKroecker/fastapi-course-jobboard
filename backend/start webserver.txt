@@ -6,12 +6,11 @@ cd C:\Users\RomKey\Documents\GitHub\fastapi-course-jobboard
 uvicorn main:app --reload
 
 
-<<<<<<< HEAD:backend/starten des webservers.txt
 # monitor the database
 ## pgAdmin4 : postgres
 ## DB Browser : SQLite
 
 # -> session.py
-=======
-# monitor the database with pgAdmin4
->>>>>>> 480b70423140031a7554d691e06cca1c6b6bfb91:starten des webservers.txt
+
+
+
