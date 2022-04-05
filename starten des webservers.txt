@@ -6,9 +6,4 @@ cd C:\Users\RomKey\Documents\GitHub\fastapi-course-jobboard
 uvicorn main:app --reload
 
 
-
-
-
-
-pip install uvicorn
-pip install fastAPI
+# monitor the database with pgAdmin4
