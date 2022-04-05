@@ -8,7 +8,7 @@ Created on Mon Apr  4 19:47:04 2022
 from core.config import settings
 from fastapi import FastAPI
 from db.session import engine
-from db.base_class import Base
+from db.base import Base
 
 
 def create_tables():
